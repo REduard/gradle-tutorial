@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gradle-tutorial.application" options="-parameters" />
+      <module name="gradle-tutorial.application.main" options="-parameters" />
+      <module name="gradle-tutorial.application.test" options="-parameters" />
+      <module name="gradle-tutorial.library" options="-parameters" />
+      <module name="gradle-tutorial.library.main" options="-parameters" />
+      <module name="gradle-tutorial.library.test" options="-parameters" />
+    </option>
+  </component>
+</project>
